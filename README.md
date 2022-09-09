@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Akram Personal Site</title>
   </head>
-  <body>
+  <body style="background-color: powderblue;">
     <table cellspacing="20">
       <tr>
         <td> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGsKTeYHFn9SQ/profile-displayphoto-shrink_800_800/0/1636861956343?e=2147483647&v=beta&t=J5iYUwniqN2fcNYJV0BYHsPwKi9lCEqHscWgoK-Eak8" alt="Akram Profile pic">
