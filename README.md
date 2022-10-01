@@ -11,7 +11,7 @@
         <td> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGsKTeYHFn9SQ/profile-displayphoto-shrink_800_800/0/1636861956343?e=2147483647&v=beta&t=J5iYUwniqN2fcNYJV0BYHsPwKi9lCEqHscWgoK-Eak8" alt="Akram Profile pic">
 </td>
         <td><h1> Mohd Akram </h1>
-        <p><em>Under Graduate Student</em></p>
+        <p><em>Under Graduate B.Tech(CSE) Student</em></p>
         <p>I am a Software Engineer. I love Coding.</p>
         <a href="https://in.linkedin.com/in/mohd-akram01">Here Is My Profile</a></td>
       </tr>
@@ -35,12 +35,13 @@
       <th>Experience</th>
     </tr>
     <tr>
-      <td>2015-2018</td>
-      <td>Defence Research and Development Organisation</td>
+      <td>10 May-10 June
+             (2019)</td>
+      <td>FTK-CIT(Jamia Millia Islamia)</td>
     </tr>
     <tr>
-      <td>2018-2022</td>
-      <td>National Aeronautics and Space Administration</td>
+      <td>2020-2021(11 Months)</td>
+      <td>Chegg.Inc pvt ltd</td>
     </tr>
   </table>
   <hr>
